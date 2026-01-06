@@ -1,0 +1,18 @@
+{
+  "admin": {
+    "password": "admin123",
+    "email": "admin@example.com",
+    "role": "admin"
+  },
+  "558": {
+    "password": "123456",
+    "email": "",
+    "role": "user",
+    "created_at": "2024-01-01"
+  },
+  "55555": {
+    "password": "159357",
+    "email": "",
+    "role": "user"
+  }
+}
